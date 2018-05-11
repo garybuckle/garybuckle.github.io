@@ -19,6 +19,7 @@ Why?
 * Having been active for a number of years i was abruptly stopped in my tracks by two detached retinas and my reaction and subsequent attempts to dig myself out have been learning curves.
 * Sometimes the internet can be a mine field. I’ll either help to find a way through it or merely add to it.
 
+
 That’s it really!
 
 It's that simple!
