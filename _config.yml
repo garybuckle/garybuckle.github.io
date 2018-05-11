@@ -13,16 +13,25 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Your awesome title
-email: your-email@example.com
+title: garybuckle
+email: buckle.g@mac.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+# This is the start
+In an age where blogs died,
+Where hashtags and emojis rule
+Where social media outgunned the simple web site.
+So I made a blog.
+Why?
+* People like me talk a lot of shit. This is the bucket to hold it.
+* I’m genuinely interested in health and fitness and have discovered some useful stuff I’d like to share.
+* I’ll collect the data in flat files. What does that mean? - no databases and no stuff held anywhere that the lines of FaceBook, Google, Amazon, or indeed anyone needs to care about. It’s github, place of code. I’m not particularly anti any of these organisations, despite the media uproar. They have their place. I just didn’t want logins et al.
+* Having been active for a number of years i was abruptly stopped in my tracks by two detached retinas and my reaction and subsequent attempts to dig myself out have been learning curves.
+* Sometimes the internet can be a mine field. I’ll either help to find a way through it or merely add to it.
+That’s it really!
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "https://garybuckle.github.ik" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username:
+github_username:  garybuckle
 
 # Build settings
 markdown: kramdown
