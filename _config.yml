@@ -29,7 +29,7 @@ Why?
 * Sometimes the internet can be a mine field. I’ll either help to find a way through it or merely add to it.
 That’s it really!
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://garybuckle.github.ik" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://garybuckle.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:
 github_username:  garybuckle
 
