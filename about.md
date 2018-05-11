@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Why oh why another blog?????
 permalink: /about/
 ---
 
@@ -11,8 +11,11 @@ It wont contain lots of eye candy either.
 In an age where blogs died,
 Where hashtags and emojis rule
 Where social media outgunned the simple web site.
-So I made a blog.
+
+I made a blog.
+
 Why?
+
 * People like me talk a lot of shit. This is the bucket to hold it.
 * I’m genuinely interested in health and fitness and have discovered some useful stuff I’d like to share.
 * I’ll collect the data in flat files. What does that mean? - no databases and no stuff held anywhere that the lines of FaceBook, Google, Amazon, or indeed anyone needs to care about. It’s github, place of code. I’m not particularly anti any of these organisations, despite the media uproar. They have their place. I just didn’t want logins et al. 
