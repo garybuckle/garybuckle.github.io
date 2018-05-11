@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Why oh why another blog?????
+title: Why?
 permalink: /about/
 ---
 
