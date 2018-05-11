@@ -4,8 +4,10 @@ title: Why?
 permalink: /about/
 ---
 
-This is a simple site, no databases, no logins. Everthin is a flat file. There will be no 'heavy' content'
-It wont contain lots of eye candy either.
+This is a simple site, no databases, no logins. 
+* All data is stored in a flat file.
+* There will be no 'heavy' content'
+* It wont contain lots of eye candy either.
 
 # This is the start 
 In an age where blogs died,
