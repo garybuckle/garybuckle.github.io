@@ -5,7 +5,6 @@ date:   2018-05-16 11:31:50 +0100
 categories: Equipment
 ---
 ## New Polar refuses to pair with Polar  Flow on iOS device
-
 * error message is 'pairing failed'
 
 ## Some context around the issue
