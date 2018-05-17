@@ -1,15 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-05-17T11:13:40+01:00</updated><id>http://localhost:4000/</id><title type="html">garybuckle</title><subtitle>Health, fitness, running, squash, boxing, diet.... being something or someone that makes you happy!</subtitle><entry><title type="html">Fixing Polar V800 Pairing issue</title><link href="http://localhost:4000/equipment/2018/05/16/Polar-V800-Pairing-discovery.html" rel="alternate" type="text/html" title="Fixing Polar V800 Pairing issue" /><published>2018-05-16T11:31:50+01:00</published><updated>2018-05-16T11:31:50+01:00</updated><id>http://localhost:4000/equipment/2018/05/16/Polar%20V800%20Pairing%20discovery</id><content type="html" xml:base="http://localhost:4000/equipment/2018/05/16/Polar-V800-Pairing-discovery.html">&lt;h2 id=&quot;new-polar-refuses-to-pair-with-polar--flow-on-ios-device&quot;&gt;New Polar refuses to pair with Polar  Flow on iOS device&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-05-17T11:18:59+01:00</updated><id>http://localhost:4000/</id><title type="html">garybuckle</title><subtitle>Health, fitness, running, squash, boxing, diet.... being something or someone that makes you happy!</subtitle><entry><title type="html">Fixing Polar V800 Pairing issue</title><link href="http://localhost:4000/equipment/2018/05/16/Polar-V800-Pairing-discovery.html" rel="alternate" type="text/html" title="Fixing Polar V800 Pairing issue" /><published>2018-05-16T11:31:50+01:00</published><updated>2018-05-16T11:31:50+01:00</updated><id>http://localhost:4000/equipment/2018/05/16/Polar%20V800%20Pairing%20discovery</id><content type="html" xml:base="http://localhost:4000/equipment/2018/05/16/Polar-V800-Pairing-discovery.html">&lt;h2 id=&quot;new-polar-refuses-to-pair-with-polar--flow-on-ios-device&quot;&gt;New Polar refuses to pair with Polar  Flow on iOS device&lt;/h2&gt;
 &lt;ul&gt;
   &lt;li&gt;error message is ‘pairing failed’&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;some-context-around-the-issue&quot;&gt;Some context around the issue&lt;/h2&gt;
-&lt;p&gt;I recently purchased another Polar device (second Hand). I already own a M400 but the second hand one wa a three year old V800.&lt;/p&gt;
+&lt;p&gt;I recently purchased another Polar device (second Hand). I already own a M400 but the second hand one was a three year old V800 with a gorgeous blue triathlon strap .&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;I couldnt resist buying it!!!!&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;When pairing the new device for the first time it was fine.
-I had to unpair it because I had it tested by Polar (for free). So in order to (re) pair my old M400 and it was after this that I had issues.
+I had to unpair it because I had it tested by Polar (for free). So in order to (re) pair my old M400 I had to unpair te V800. On receiving the V800 back from &lt;a href=&quot;https://www.polar.com/uk-en&quot;&gt;Polar&lt;/a&gt; I had issues pairing with the polar flow app on my iOS device.
 Removing it from the account, deleting and reinstalling the Polar Flow app and repairing it from the watch resulted in the pairing error.&lt;/p&gt;
 
 &lt;h2 id=&quot;the-fix&quot;&gt;The Fix.&lt;/h2&gt;
