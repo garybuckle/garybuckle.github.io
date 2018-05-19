@@ -13,3 +13,10 @@ For anyone active in sports activities this is quite a traumatic experience.
 
 That was certainly the case for me, coming in a period where I was getting ready for a marathon, challenging in local squash leagues and enjoying a high level of fitness.
 
+I can think of no particular reason why this happened. No squash ball in the eye, no one punched me and I certainly had no trauma that I can recollect.
+
+My first recollection of anything untoward was having floaters, actually in both eyes.
+The diagnosis from  My first hospital visit was a retinal tear, he treatment for which is laser treatment and fairly standard.
+Performed on the same day as my appointment, unfortunately it didn't work.
+
+To be completed Saturday 2018-05-19 10:31:41p
