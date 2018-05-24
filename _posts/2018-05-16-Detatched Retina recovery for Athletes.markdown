@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Detached Retina!
-date:   2018-05-19 22:31:50 +0000
+date:   2018-05-24 22:31:50 +0000
 categories: injuries
 ---
 
@@ -82,5 +82,5 @@ After calls and visits to the hospital it transpired that not only had the eye h
 On Saturday the 7th of April I was operated on for a second time.
 The result of which was more laser and the insertion of silicon oil in the eye.
 
-To be completed Sunday 2018-05-24 09:12:43a
+To be completed Thursday 2018-05-24 09:12:43a
 
