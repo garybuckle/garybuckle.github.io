@@ -82,5 +82,54 @@ After calls and visits to the hospital it transpired that not only had the eye h
 On Saturday the 7th of April I was operated on for a second time.
 The result of which was more laser and the insertion of silicon oil in the eye.
 
-To be completed Thursday 2018-05-24 09:12:43a
+Initially the prognosis was very grim.
+
+- "This might not be the last time we need to operate"
+- "We cannot guarantee that your retina will not detach again"
+- "Your vision in the left eye may not return to anything like it was previously "
+- You may discover that your running days are over"
+
+Not inspiring stuff!!
+
+
+I was actually not disheartened by the candid outlook dispensed by the surgeon.
+
+
+Two weeks later though his diagnosis was:
+
+"Actually, it's not bad!"
+
+I was encouraged by the results.
+Despite the blurry vision, a result of dilating eye drops and the Silicon Oil.
+I could see through the portal of my left socket.
+
+So from the 7th of April till the 28th I did nothing.
+
+No walks, no runs, no squash just nothing.
+
+
+20 days is not long but it was a lifetime to me
+
+Add to that the prospect of face down posturing for 50 minutes of every hour for the first 7 days post op.
+
+On the 28th of April I ventured out.
+Advice from the surgeon had been to wait until the eye drops were finished and start walking. His advice was to do sports that did not involve rapid movement of the head or heavy vibration.
+
+- Walking
+- Cycling 
+
+Perfect!
+
+After 3 weeks I started walking and 5 weeks post op, on the 14th of May I started cycling.
+On the 25th of May I did 5k on a concept 2 Ergo rowing machine.
+
+I have a recipe, a game plan that touch wood has so far appeared to work.
+
+I will update the post as I progress but as always please consider that all medical conditions are personal and never do anything unless you've checked it out with the medical staff.
+
+
+Friday 2018-05-25 09:52:05a
+
+If you would like to comment on this post then please [mail me](mailto:iambuckle@mac.com)
+
 
