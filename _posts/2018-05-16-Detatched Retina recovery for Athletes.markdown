@@ -87,7 +87,7 @@ Initially the prognosis was very grim.
 - "This might not be the last time we need to operate"
 - "We cannot guarantee that your retina will not detach again"
 - "Your vision in the left eye may not return to anything like it was previously "
-- You may discover that your running days are over"
+-  "You may discover that your running days are over"
 
 Not inspiring stuff!!
 
@@ -128,8 +128,10 @@ I have a recipe, a game plan that touch wood has so far appeared to work.
 I will update the post as I progress but as always please consider that all medical conditions are personal and never do anything unless you've checked it out with the medical staff.
 
 
-Friday 2018-05-25 09:52:05a
+
 
 If you would like to comment on this post then please [mail me](mailto:iambuckle@mac.com)
 
+
+Current time stamp is Friday 2018-05-25 09:52:05a
 
