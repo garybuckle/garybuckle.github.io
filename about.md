@@ -21,7 +21,7 @@ Why?
 * People like me talk a lot of shit. This is the bucket to hold it.
 * I’m genuinely interested in health and fitness and have discovered some useful stuff I’d like to share.
 
-* I’ll collect the data in flat files. What does that mean? - no databases and no data is is held anywhere that FaceBook, Google, Amazon, or any of the large organisations that run the internet would be interested in
+* I’ll collect the data in flat files. What does that mean? - no databases and no data held anywhere that FaceBook, Google, Amazon, or any of the large organisations that run the internet would be interested in
 
 . It’s github, place of code. I’m not particularly anti any of these organisations, despite the media uproar. They have their place. I just didn’t want logins et al.
 
