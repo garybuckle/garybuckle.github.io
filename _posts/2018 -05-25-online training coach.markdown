@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  "Online training coach"
-date:   Friday 2018-05-25 10:59:24a
+title:  Online Training Websites
+date:   2018-05-26 10:31:50 +0000
+categories: injuries
 ---
 
 # Using Online logging tools to guide your training
