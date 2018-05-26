@@ -2,15 +2,16 @@
 layout: post
 title:  Online Training Websites
 date:   2018-05-26 10:31:50 +0000
-categories: injuries
 ---
 
 # Using Online logging tools to guide your training
 
 
-This is a very basic about how logging your fitness sessions can be useful as a motivational tool, sounds very obvious now that I'm writing this.
+This is a very basic entry about how logging your fitness sessions can be useful as a motivational tool, sounds very obvious now that I'm writing this.
 
-There are many options available, some free and some that you have to subscribe to.
+There are lots of them about and I've used a few.
+
+As already stated, there are many options available, some free and some that you have to subscribe to.
 The two big sports/fitness manufacturers Garmin and Polar both have very good online facilities and apps for capturing and displaying the data.
 Other online portals or tools like [Training Peaks](www.trainingpeaks.com) are not free but very useful and comprehensive.
 
