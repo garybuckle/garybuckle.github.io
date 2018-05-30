@@ -4,7 +4,7 @@ title: Reading
 permalink: /reading/
 ---
 
-I have a, very amateur interest in sports psychology. So my first entry here has to go to:
+I have a very amateur interest in sports psychology. So my first entry here has to go to:
 
 [Bounce - Mathew Syed's excellent book on Talent and practice](http://www.matthewsyed.co.uk/books/). 
 
