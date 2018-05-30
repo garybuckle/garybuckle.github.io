@@ -2,27 +2,25 @@
 layout: post
 title:  Online Training Websites
 date:   2018-05-26 10:31:50 +0000
-categories: equipment
 ---
 
 # Using Online logging tools to guide your training
 
 
-This is a very basic entry about how logging your fitness sessions can be useful as a motivational tool, sounds very obvious now that I’m writing this.
+This is a very basic entry about how logging your fitness sessions can be useful as a motivational tool, sounds very obvious now that I'm writing this.
 
-There are lots of them about and I’ve used a few.
+There are lots of them about and I've used a few.
 
-As already stated, there are many options available, some free and some that you have to subscribe to and therefore are not free.
-
+As already stated, there are many options available, some free and some that you have to subscribe to.
 The two big sports/fitness manufacturers Garmin and Polar both have very good online facilities and apps for capturing and displaying the data.
 Other online portals or tools like [Training Peaks](www.trainingpeaks.com) are not free but very useful and comprehensive.
 
 
-* Why log your exercises?
+**Why log your exercises?
 
-- When you start, you may not have a clear idea of where you want to get to but you will know where you are. You will continually strive to get to where you want to be but will easily forget where you started.
+- When you start you will have done idea of where you want to get to and you will know where you are. You will continually strive to get to where you want to be but will easily forget where you started.
 - Having a visual reminder of your efforts may inspire you.
-- You might find that you become obsessed with logging the workouts you do.
+- You may become obsessed with logging the workout. 
 - You can workout effectively and not waste your valuable time.
 - Others will see your efforts and comment.
 
@@ -45,9 +43,9 @@ I installed positive habits in my life.
 
 For the record I used Garmin and Polar flow, decisions driven by the use of equipment like gps watches and fitness trackers.
 
-Previously I’d also used [Runkeeper](www.runkeeper.com)
+Previously I'd also used [Runkeeper](www.runkeeper.com)
 
-Currently I use [Polar Flow](https://flow.polar.com/) and have the account linked to [Strave](https://www.strava.com/)
+Currently I use [Polar Flow](www.) and have the account linked to [Strave]()
 
 So what does the Polar Flow service do for me?
 
