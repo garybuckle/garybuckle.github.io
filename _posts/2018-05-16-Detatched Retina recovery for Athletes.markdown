@@ -19,7 +19,7 @@ My first recollection of anything untoward was having floaters, actually in both
 The diagnosis from  My first hospital visit was a retinal tear, he treatment for which is laser treatment and fairly standard.
 Performed on the same day as my appointment, unfortunately it didn't work.
 
-This meant I was forced to go in to the hospital two days later. This meant I was sent to another hospital for a deeper, more intensive operation to fix the tear.
+This meant I was sent to another hospital for a deeper, more intensive operation to fix the tear.
 
 It was there that I was informed I had a detached retina.
 Initially it's a bit of a shock since I'd no idea what that actually meant.
@@ -133,5 +133,5 @@ I will update the post as I progress but as always please consider that all medi
 If you would like to comment on this post then please [mail me](mailto:iambuckle@mac.com)
 
 
-Current time stamp is Friday 2018-05-25 09:52:05a
+Current time stamp is Thursday 2018-05-31 09:52:05a
 

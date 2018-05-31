@@ -2,6 +2,7 @@
 layout: post
 title:  Online Training Websites
 date:   2018-05-26 10:31:50 +0000
+categories: injuries
 ---
 
 # Using Online logging tools to guide your training
@@ -45,9 +46,22 @@ For the record I used Garmin and Polar flow, decisions driven by the use of equi
 
 Previously I'd also used [Runkeeper](www.runkeeper.com)
 
-Currently I use [Polar Flow](www.) and have the account linked to [Strave]()
+Currently I use [Polar Flow](www.) and have the account linked to [Strava](https://www.strava.com/)
+
+I'm focusing on Polar because all of the features it offers are essentially free, _
+As long as you have a Polar device.
 
 So what does the Polar Flow service do for me?
+
+- Heart Rate- Min, Max and zones.
+- Recovery.
+- Activity.
+
+Initially there isn't a lot of data to go on so the site or mobile app might look a bit barren.
+
+The more you exercise, the more gets displayed.
+
+If you would like to comment on this post then please [mail me](mailto:iambuckle@mac.com)
 
 
 

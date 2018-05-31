@@ -18,4 +18,6 @@ Removing it from the account, deleting and reinstalling the Polar Flow app and r
 
 ## The Fix.
 Make sure that you remove the Bluetooth v800 entry under the Bluetooth menu on iOS. 
-Otherwise although the device appears to pair, it actually does not pair and will say pairing failed even after entry of the pin code.
+Otherwise although the device appears to pair, it actually does not pair and will say pairing failed even after entry of the pin 
+
+If you would like to comment on this post then please [mail me](mailto:iambuckle@mac.com)
