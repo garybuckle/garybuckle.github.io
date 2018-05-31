@@ -66,7 +66,7 @@ Yep it felt great!
 After the session I made my way back into my house and felt the sweat coving my body.
 I was back!
 
-Removing the glasses I was greeted with a a black screen on my left eye.
+Removing the glasses I was greeted with a black screen on my left eye.
 
 Like black sky!
 
