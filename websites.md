@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Websites
-permalink: /websites/
+title: My Sites
+permalink: /mysites/
 ---
 
 
@@ -13,3 +13,6 @@ Months later the most important bits of the message are forgotten and my mantra 
 The first entry has to be [That gut feeling](https://www.bbc.co.uk/programmes/b07ff0hl)
 It's a podcast!
 
+Next up is [Train Ugly](http://trainugly.com)
+
+I love the focus on mindset, growth and learning from failure.
