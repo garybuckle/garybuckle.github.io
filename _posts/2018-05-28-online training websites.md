@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Online Training Websites
-date:   2018-05-26 10:31:50 +0000
+date:   2018-06-04 10:31:50 +0000
 categories: injuries
 ---
 
@@ -17,7 +17,7 @@ The two big sports/fitness manufacturers Garmin and Polar both have very good on
 Other online portals or tools like [Training Peaks](www.trainingpeaks.com) are not free but very useful and comprehensive.
 
 
-**Why log your exercises?
+# Why log your exercises?
 
 - When you start you will have done idea of where you want to get to and you will know where you are. You will continually strive to get to where you want to be but will easily forget where you started.
 - Having a visual reminder of your efforts may inspire you.
@@ -27,7 +27,9 @@ Other online portals or tools like [Training Peaks](www.trainingpeaks.com) are n
 
 So, again I can only offer my experience and my data.
 
-My experience was that logging my workouts initially highlighted how poor my performance was when compared to what it was years ago. Rather than dishearten me though it gave me a ground zero starting point. Sort of, "I can only get better" approach.
+My experience was that logging my workouts initially highlighted how poor my performance was when compared to what it was years ago. Rather than dishearten me though it gave me a ground zero starting point. 
+
+Starting at the bottom gave me a  "I can only get better" approach.
 
 As I progressed the progression that I could clearly see was inspiring.
 
@@ -60,6 +62,15 @@ So what does the Polar Flow service do for me?
 Initially there isn't a lot of data to go on so the site or mobile app might look a bit barren.
 
 The more you exercise, the more gets displayed.
+
+Here is an example of a Squash session.
+
+![HR Data]({{garybuckle.github.io}}/assets/polar/Polar HR Example.png)
+
+This post is currently being developed, I will add more in due course.
+
+
+
 
 If you would like to comment on this post then please [mail me](mailto:iambuckle@mac.com)
 
