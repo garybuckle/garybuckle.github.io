@@ -12,4 +12,4 @@ You will find all of his books here and Bounce
 is at the bottom. Great place to start.
 
 Second is [Born to run](https://www.goodreads.com/book/show/7986569-born-to-run)
-
+If youre looking for inspiration then thats definitely a good book to read.
