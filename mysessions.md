@@ -4,3 +4,4 @@ title: My Sessions
 permalink: /mysessions/
 ---
 
+Training Sessions I love!
