@@ -123,9 +123,30 @@ Perfect!
 After 3 weeks I started walking and 5 weeks post op, on the 14th of May I started cycling.
 On the 25th of May I did 5k on a concept 2 Ergo rowing machine.
 
-I have a recipe, a game plan that touch wood has so far appeared to work.
+I have a recipe, a game plan that, touch wood has so far appeared to work.
 
 I will update the post as I progress but as always please consider that all medical conditions are personal and never do anything unless you've checked it out with the medical staff.
+
+
+Sunday 2018-06-17
+
+Update:
+
+After an 8 week post op the surgeon has given me the all clear to do exercise.
+The two main areas I want to return to being.
+
+- Running
+- Squash 
+
+The next step for the recovery of my retina will be to remove the oil.
+After this will be a similar period of rest and taking care as per the last op.
+
+With that in mind I have decided to let them remove the oil in October/ November.
+
+This gives me time to run my much loved Köln marathon.
+
+So I'm officially starting training for that event.
+
 
 
 
@@ -133,5 +154,5 @@ I will update the post as I progress but as always please consider that all medi
 If you would like to comment on this post then please [mail me](mailto:iambuckle@mac.com)
 
 
-Current time stamp is Thursday 2018-05-31 09:52:05a
+
 
