@@ -63,7 +63,9 @@ Initially there isn't a lot of data to go on so the site or mobile app might loo
 
 The more you exercise, the more gets displayed.
 
-Here is an example of a Squash session.
+Here is an example of a Squash session. I just wanted to post this as an example of the data that these sites provide. I'm planning an entry on the exact usage of HR data and zones.
+
+
 
 ![HR Data]({{garybuckle.github.io}}/assets/polar/Polar HR Example.png)
 
