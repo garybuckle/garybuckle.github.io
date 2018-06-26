@@ -14,7 +14,7 @@ For anyone active in sports activities this is quite a traumatic experience.
 
 That was certainly the case for me, coming in a period where I was getting ready for a marathon, challenging in local squash leagues, about to embark on an ultra-marathon and generally enjoying a high level of fitness.
 
-So fow diod ut happen? - the question everyonre asks!
+So how did it happen? - the question everyone asks!
 
 I can think of no particular reason why this happened. No squash ball in the eye, no one punched me and I certainly had no trauma that I can recollect.
 
