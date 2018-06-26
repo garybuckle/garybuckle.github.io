@@ -1,7 +1,5 @@
 ---
 layout: page
-title: Boxing Session
-permalink: /mysessions/
 ---
 ![HR Data]({{garybuckle.github.io}}/assets/polar/Sunday Boxing session.png)
 

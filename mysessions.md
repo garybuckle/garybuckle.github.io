@@ -6,7 +6,7 @@ permalink:
 
 Training Sessions I love!
 
-The [Sunday morning Boxing session](/mysessions/boxingsession.md)
+The [Sunday morning Boxing session](boxingsession)
 
 
 
