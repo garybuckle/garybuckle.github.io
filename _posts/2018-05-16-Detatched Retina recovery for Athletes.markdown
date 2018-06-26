@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  Detached Retina!
-date:   2018-06-17 10:00:50 +0000
+title: Detached Retina!
+date: '2018-06-17 10:00:50 +0000'
 categories: injuries
+published: true
 ---
 
 
@@ -11,12 +12,20 @@ categories: injuries
 
 For anyone active in sports activities this is quite a traumatic experience.
 
-That was certainly the case for me, coming in a period where I was getting ready for a marathon, challenging in local squash leagues and enjoying a high level of fitness.
+That was certainly the case for me, coming in a period where I was getting ready for a marathon, challenging in local squash leagues, about to embark on an ultra-marathon and generally enjoying a high level of fitness.
+
+So fow diod ut happen? - the question everyonre asks!
 
 I can think of no particular reason why this happened. No squash ball in the eye, no one punched me and I certainly had no trauma that I can recollect.
 
 My first recollection of anything untoward was having floaters, actually in both eyes.
-The diagnosis from  My first hospital visit was a retinal tear, he treatment for which is laser treatment and fairly standard.
+Floaters are small objects that seem to float in front of the eye, actually thay are inside it and often harmless!
+I didn't expect any issues since my eyesight was perfect.
+
+Then comes the crash!!! 
+
+
+The diagnosis from my first hospital visit was a retinal tear, the treatment for which is laser and fairly standard.
 Performed on the same day as my appointment, unfortunately it didn't work.
 
 This meant I was sent to another hospital for a deeper, more intensive operation to fix the tear.
@@ -152,7 +161,3 @@ So I'm officially starting training for that event.
 
 
 If you would like to comment on this post then please [mail me](mailto:iambuckle@mac.com)
-
-
-
-
