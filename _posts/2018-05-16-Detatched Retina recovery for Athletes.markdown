@@ -8,6 +8,7 @@ published: true
 
 
 # recovering from a detached retina.
+
 [what is a detached retina](https://www.nhs.uk/conditions/detached-retina-retinal-detachment/).
 
 For anyone active in sports activities this is quite a traumatic experience.
