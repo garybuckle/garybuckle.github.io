@@ -20,4 +20,4 @@ I love the focus on mindset, growth and learning from failure.
 
 A bit of love to squash fans [Squashskills](https://squashskills.com)
 
-Fantastuc site, not free but absolutely crammed with great videos from the game's finest. This is literally and no pun intended a game changer.
+Fantastuc site, not free but absolutely crammed with great videos from the game's finest. This is literally and no pun intended, a game changer.
