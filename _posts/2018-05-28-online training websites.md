@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  Online Training Websites
-date:   2018-06-04 10:31:50 +0000
-categories: injuries
+title: Online Training Websites
+date: '2018-06-27 09:00:50 +0000'
+categories: training
+published: true
 ---
 
 # Using Online logging tools to guide your training
@@ -14,18 +15,20 @@ There are lots of them about and I've used a few.
 
 As already stated, there are many options available, some free and some that you have to subscribe to.
 The two big sports/fitness manufacturers Garmin and Polar both have very good online facilities and apps for capturing and displaying the data.
-Other online portals or tools like [Training Peaks](www.trainingpeaks.com) are not free but very useful and comprehensive.
+Other online portals or tools like [Training Peaks](www.trainingpeaks.com) are not free but very useful and comprehensive.I haven't used Training Peaks but I hear that it's very in-depth.
 
 
 # Why log your exercises?
 
-- When you start you will have done idea of where you want to get to and you will know where you are. You will continually strive to get to where you want to be but will easily forget where you started.
+- When you start you will have no idea of where you want to get to and you will not necessarily know where you are. 
+You will continually strive to get to where you think you should be but will easily forget where you started.
+Some points to remember:
 - Having a visual reminder of your efforts may inspire you.
-- You may become obsessed with logging the workout. 
+- You may become obsessed with logging the workout (it's a good thing). 
 - You can workout effectively and not waste your valuable time.
 - Others will see your efforts and comment.
 
-So, again I can only offer my experience and my data.
+So, again I can only offer my experience and my data. It's one data set and one persons experience so please bear that in mind.
 
 My experience was that logging my workouts initially highlighted how poor my performance was when compared to what it was years ago. Rather than dishearten me though it gave me a ground zero starting point. 
 
@@ -44,14 +47,15 @@ In essence my reward system was sufficiently triggered.
 I installed positive habits in my life.
 
 
-For the record I used Garmin and Polar flow, decisions driven by the use of equipment like gps watches and fitness trackers.
+For the record I used Garmin and Polar flow, decisions driven by the use of equipment like GPS watches and fitness trackers.
 
 Previously I'd also used [Runkeeper](www.runkeeper.com)
 
 Currently I use [Polar Flow](www.) and have the account linked to [Strava](https://www.strava.com/)
 
-I'm focusing on Polar because all of the features it offers are essentially free, _
-As long as you have a Polar device.
+I'm focusing on Polar because all of the features it offers are essentially free,
+_
+> As long as you have a Polar device.
 
 So what does the Polar Flow service do for me?
 
@@ -77,8 +81,4 @@ This post is currently being developed, I will add more in due course.
 
 
 If you would like to comment on this post then please [mail me](mailto:iambuckle@mac.com)
-
-
-
-
 
