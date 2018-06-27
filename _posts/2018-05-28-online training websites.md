@@ -76,9 +76,27 @@ Here is an example of a Squash session. I just wanted to post this as an example
 
 ![HR Data]({{garybuckle.github.io}}/assets/polar/Polar HR Example.png)
 
+
+Polar also provides a nice visualisation of your sessions all summarised in weeks and months.
+
+Here is a screenshot of my April training, slap bang in the middle of my detatched retina.
+
+![April Polar training diary]({{garybuckle.github.io}}/assets/polar/April Training Diary.png)
+
+Note the summary tab.
+
+
+
+Compare this with June:
+
+
+![June Polar training diary]({{garybuckle.github.io}}/assets/polar/June Polar training.png)
+
+
+
+
 This post is currently being developed, I will add more in due course.
 
 
 
 If you would like to comment on this post then please [mail me](mailto:iambuckle@mac.com)
-
