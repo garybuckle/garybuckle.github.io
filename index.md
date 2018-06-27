@@ -4,6 +4,7 @@ published: true
 ---
 
 garybuckle is just like you. He runs the odd marathon, plays a bit of squash, does 20 press ups everyday, eats too much chocolate but he dreams of being a'proper' athlete.
+
 He wants to play 'proper' squash and one day he will run an ultra marathon.
 
 This website is just to log the stuff around that.
