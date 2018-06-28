@@ -11,7 +11,8 @@ I am no exception but as I sat in the spring sunshine resting and believe me, th
 I began to contemplate how I could make the best out of the situation. The best out of not doing what I have loved doing for a long time.
 
 Easy answers came first:
-- The bits of me that had been complaining about the running and the squash like my left foot, with the [Plantar fasciitis](https://en.wikipedia.org/wiki/Plantar_fasciitis), a feature since the Berlin Marathon.After saturday morning pressure sessions with my [coach](https://www.darrenwithey.co.uk) I would hobble around avoiding puttting pressure on my left foot.
+- The bits of me that had been complaining about the running and the squash like my left foot, with the [Plantar fasciitis](https://en.wikipedia.org/wiki/Plantar_fasciitis), a feature since the Berlin Marathon. After saturday morning pressure sessions with my [coach](https://www.darrenwithey.co.uk).
+I would hobble around avoiding puttting pressure on my left foot.
 
 - My wife would see more of me.
 - I would have time to read more!
