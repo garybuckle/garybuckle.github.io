@@ -34,7 +34,7 @@ Very much inspired by [Black Box Thinking](https://www.goodreads.com/book/show/2
 I made a very honest and direct assessment  of my physical condition.
 Calorie intake was as high as it had been whilst active. Cut down the calories!
 I hadn't drunk alcohol for 4 months so that was already sorted. My beer drinking data had proven conclusively to me and possibly only applicable to me, that this was a major cause of weight gain. 
-What can I do - well that was an easy answer - I couldn't do anything but I had to make sure the minute I could I used the time appropriately and effectively. That meant plotting a course of recovery and not just banging out a 10km run or an intensive boxing session.
+What can I do - well that was an easy answer - I couldn't do anything but I had to make sure that I used the time appropriately and effectively. That meant plotting a course of recovery and not just banging out a 10km run or an intensive boxing session.
 
 ## Visualisation.
 I started to visualise squash games, I started to visualise positions on court, movement, racket position and mental approaches. I mean what else could I do! I couldn't actually get in court myself. I spent literally hours thinking about it but not actually doing it.
