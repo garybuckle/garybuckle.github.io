@@ -4,7 +4,7 @@ layout: post
 date: '2018-06-28 07:00:50 +0000'
 categories: training
 ---
-#Things I have learned from injury.
+# Things I have learned from injury.
 
 Active people do not react well to doing nothing.
 I am no exception but as I sat in the spring sunshine resting and there was lots of resting. 
@@ -32,12 +32,12 @@ Calorie intake was as high as it had been whilst active. Cut down the calories!
 I hadn't drunk alcohol for 4 months so that was already sorted. My beer drinking data had proven conclusively to me and possibly only applicable to me, that this was a major cause of weight gain. 
 What can I do - well that was an easy answer - I couldn't do anything but I had to make sure the minute I could I used the time appropriately and effectively. That meant plotting a course of recovery and not just banging out a 10km run or an intensive boxing session.
 
-##Visualisation.
+## Visualisation.
 I started to visualise squash games, I started to visualise positions on court, movement, racket position and mental approaches. I mean what else could I do! I couldn't actually get in court myself. I spent literally hours thinking about it but not actually doing it.
 What an  anorak!!!
 I spent a long time reviewing running styles and training sessions. Mentally going through the circuits I could do and when I could do them.
 
-##The recovery 
+## The recovery 
 Eventually I was able to start doing light exercise.
 By the way, do not rely on the doctors or surgeons defining that one for you. As an individual you will have different pain thresholds and different ideas about *'pushing it'* or taking it easy.
 For me it had to be very *clear*.
@@ -57,7 +57,7 @@ So now you know a bit more about zones.
 
 So I started in zone 1 and zone 2 and according to [Rich Roll](http://www.richroll.com/blog/lactate-testing-training-zones/) this is not a bad thing.
 
-##Advanced recovery - getting back on the horse.
+## Advanced recovery - getting back on the horse.
 >"You may start upping your exercise, nothing extreme though. Nothing that will cause a lot of vibration or pounding, maybe cycling and oh..... don't worry about the heart rate. Push it a bit if you like"
 
 Music to my ears!
@@ -68,11 +68,11 @@ So running and skipping are out as was squash!
 
 Cycling it is!
 
-####Stationary cycling aka Spinning. 
+#### Stationary cycling aka Spinning. 
 
 I built up slowly taking time to sit in the lower zones without worrying about the performance. So back to the point of the blog.... I was training not to measure the performance but more for the actually act of doing it. Something I hadn't done in a long time. I was learning a lot from this and yes I was also feeling much better about myself. Sitting on the bike, much like walking also helped me think things through.
 
-####Slow motion ghosting.
+#### Slow motion ghosting.
 
 Firstly what is [ghosting](http://www.lancashiresquashandracketball.co.uk/blog/2016/10/20/video-paul-carter-on-ghosting/). As explained by England coach - Paul Carter.
 
@@ -90,7 +90,7 @@ When you have no choice though and you are desperate to hold a racket it's diffe
 Deprived of choice I ghosted but very, very slowly!
 No bouncing up and down or jerky movements. I watched videos of the pros and did my best, in my own head, in a narrow strip at the side of my house to emulate them. 
 - Moving very slowly into position and dragging the racket through the air.
--  Pulling out of the shot and recovering smoothly.
+- Pulling out of the shot and recovering smoothly.
 
 
 The parallels between  the biomechanics of squash and boxing are very close (doesn't make me a great player though).
