@@ -92,8 +92,18 @@ Compare this with June:
 
 ![June Polar training diary]({{garybuckle.github.io}}/assets/polar/June Polar training.png)
 
+here is an example
+
+![September session]({{garybuckle.github.io}}/assets/polar/Polar running 170917_1.png)
+![September session]({{garybuckle.github.io}}/assets/polar/Polar running 170917_2.png)
+
+
+
+
+
 
 ![Under Construction]({{garybuckle.github.io}}/assets/site_icons/Under Construction.jpeg)
+
 
 This post is currently being developed, I will add more in due course.
 
