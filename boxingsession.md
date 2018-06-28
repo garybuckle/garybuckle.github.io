@@ -1,5 +1,6 @@
 ---
 layout: page
+published: true
 ---
 ![HR Data]({{garybuckle.github.io}}/assets/polar/Sunday Boxing session.png)
 
@@ -10,4 +11,6 @@ To finish I do 10 - 1 minute sprints or shuttles. Mostly with a racket in my han
 
 This is mostly a venture out into zone 4.
 
-Benefits are:
+This post is under construction.
+
+More to follow....
