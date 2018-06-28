@@ -7,15 +7,18 @@ categories: training
 # Things I have learned from injury.
 
 Active people do not react well to doing nothing.
-I am no exception but as I sat in the spring sunshine resting and there was lots of resting. 
-I began to contemplate how I could make the best out of the situation. 
+I am no exception but as I sat in the spring sunshine resting and believe me, there was lots of resting. 
+I began to contemplate how I could make the best out of the situation. The best out of not doing what I have loved doing for a long time.
+
 Easy answers came first:
-- The bits of me that had been complaining about the running and the squash like my left foot, with the [Plantar fasciitis](https://en.wikipedia.org/wiki/Plantar_fasciitis), evident since the Berlin Marathon.
+- The bits of me that had been complaining about the running and the squash like my left foot, with the [Plantar fasciitis](https://en.wikipedia.org/wiki/Plantar_fasciitis), a feature since the Berlin Marathon.After saturday morning pressure sessions with my [coach](https://www.darrenwithey.co.uk) I would hobble around avoiding puttting pressure on my left foot.
+
 - My wife would see more of me.
 - I would have time to read more!
+- I wouldn't have to worry about getting up at 5am.
 
 But there might be more to it than that.
-Surely I could come of this stronger?
+Surely I could come of this stronger? better? even fitter?
 
 As I sat outside listening to Rich Roll's Finding [Ultra](https://www.goodreads.com/book/show/39665673-finding-ultra-revised-and-updated-edition?ac=1&from_search=true) on an Audiobook
 I began to wonder if and how I could actually improve from this horrible experience.
