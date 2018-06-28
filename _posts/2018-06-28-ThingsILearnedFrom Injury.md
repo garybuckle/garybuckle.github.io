@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 date: '2018-06-28 07:00:50 +0000'
 categories: training
@@ -103,23 +103,3 @@ Once deprived of the choice I was able to concentrate on improving my game.
 Since starting playing again I have found that my style is a lot smoother. I feel more comfortable and able to recover properly.
 Another step to playing proper squash.
 All thanks to the injury.
-
- 
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
