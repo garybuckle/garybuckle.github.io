@@ -25,4 +25,4 @@ Fantastuc site, not free but absolutely crammed with great videos from the game'
 
 On that note, they do some great articles appropriate for any activity.
 [Going with the flow](https://squashskills.com/blog/-/go-with-the-flow/).
-An article of when everything just comes together.
+An article about what happens when everything just comes together.
