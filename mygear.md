@@ -2,6 +2,7 @@
 layout: page
 title: My Gear
 permalink: /mygear/
+published: true
 ---
 
 A list of the stuff I have used.
@@ -14,3 +15,7 @@ I have the H7 but the H10 would be the same..... but better!
 - [Garmin](https://buy.garmin.com/en-GB/GB/c10002-p1.html)
 - [Polar](https://www.polar.com/uk-en/products)
 - [Apple Watch](https://www.apple.com/uk/watch/?afid=p238%7CsXvcq6VIJ-dc_mtid_187079nc38483_pcrid_260223334724_&cid=aos-uk-kwgo-watch--slid--bran-apple+watch-e-product-)
+
+
+I am avoiding reviews since there are so many out there but the one I would place highest is here:
+[DC Rainmaker Equipment Guide](https://www.dcrainmaker.com/2017/11/winter-technology-recommendations.html)
