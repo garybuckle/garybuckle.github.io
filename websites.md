@@ -20,9 +20,12 @@ I love the focus on mindset, growth and learning from failure.
 
 A bit of love to squash fans -   [Squashskills](https://squashskills.com)
 
-Fantastuc site, not free but absolutely crammed with great videos from the game's finest. This is literally and no pun intended, a game changer.
+Fantastic site, not free but absolutely crammed with great videos from the game's finest. This is literally and no pun intended, a game changer.
 
 
 On that note, they do some great articles appropriate for any activity.
 [Going with the flow](https://squashskills.com/blog/-/go-with-the-flow/).
 An article about what happens when everything just comes together.
+
+[DC Rainmaker - Great reviews on equipment](https://www.dcrainmaker.com "Reviews on all things Running, Biking, Swimming")
+
