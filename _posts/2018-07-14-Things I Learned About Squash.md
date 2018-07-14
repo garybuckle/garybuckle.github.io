@@ -1,6 +1,7 @@
 ---
 published: false
+layout: post
 ---
 ## Things I learned about Squash
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+First observation is that it's a wonderful sport!
