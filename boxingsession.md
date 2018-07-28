@@ -3,7 +3,7 @@ layout: page
 published: true
 ---
 
-#Sunday Morning Boxing Session.
+# Sunday Morning Boxing Session.
 
 ## Heart rate data
 
@@ -24,4 +24,3 @@ I finish with sit ups and press ups and 3 x 1 minute wall sits ( legs at 90 degr
 
 
 Great session and not just for Sundays. In fact I will substitute this routine with a long run if I'm prepping for a marathon.
-
