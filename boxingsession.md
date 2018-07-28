@@ -3,7 +3,7 @@ layout: page
 published: true
 ---
 
-# Sunday Morning Boxing Session.
+
 
 ## Heart rate data
 
