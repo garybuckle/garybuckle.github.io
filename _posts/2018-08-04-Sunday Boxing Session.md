@@ -16,6 +16,7 @@ I follow with  6 x 3 minute rounds on a punch bag, 30 seconds rest in between.
 Next I do 10 x 1 minute sprints or shuttles. Mostly with a racket in my hand to simulate a squash game.
 ​
 This is mostly a venture out into zone 4 but I like the build up from zones 2 and 3 into zone 4.
+
 [Quick intro on zones](https://support.polar.com/uk-en/support/tips/Polar_Sport_Zones)
 ​
 I don't always record the next bits since they are not strictly cardio dependant.
