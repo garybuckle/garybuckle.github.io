@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 date: '2018-08-04 07:00:50 +0000'
 categories: training
