@@ -7,8 +7,9 @@ categories: training
 ## Heart rate data
 ​
 ![HR Data]({{garybuckle.github.io}}/assets/polar/Sunday Boxing session.png)
-​
-​
+
+
+
 20 minutes of skipping, headphones in and some Cumbia, African or Reggae flooding my brain.
 Same routine since I was 14. 
 I follow with  6 x 3 minute rounds on a punch bag, 30 seconds rest in between. 
