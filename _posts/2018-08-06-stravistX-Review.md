@@ -30,7 +30,7 @@ I discovered this:
 
 [StravistiX](%20https://chrome.google.com/webstore/detail/stravistix-for-strava/dhiaggccakkgdfcadnklkbljcgicpckn?utm_source=gmail)
 
-I have just started playing with it but if you feed it your Strava data and some of your biometrics it will Strat to spit out some interesting data.
+I have just started playing with it but if you feed it your Strava data and some of your biometrics it will start to spit out some interesting data.
 
 The fitness trend graph will give you
 
