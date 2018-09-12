@@ -1,5 +1,8 @@
 ---
 published: false
+layout: post
+date: '2018-09-12 07:00:50 +0000'
+categories: training
 ---
 ## A New Post
 
@@ -92,17 +95,3 @@ Watch the video - How was the technique?
 Heart Rate analysis
 
 Which zones did you work in and what does that mean?
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
