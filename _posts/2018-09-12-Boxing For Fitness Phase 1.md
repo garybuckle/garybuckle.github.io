@@ -4,9 +4,6 @@ layout: post
 date: '2018-09-12 07:00:50 +0000'
 categories: training
 ---
-## A New Post
-
-
 # Basic Boxing for Fitness.
 
 ## Phase 1 training session. 
