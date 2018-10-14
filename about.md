@@ -1,9 +1,3 @@
----
-layout: page
-title: About
-permalink: /about/
----
-
 This is a simple site, no databases, no logins. 
 * All data is stored in a flat file.
 * There will be no ‘heavy’ content’
