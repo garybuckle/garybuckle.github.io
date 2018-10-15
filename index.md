@@ -1,6 +1,7 @@
 ---
 layout: default
----published: true
+published: true
+---
 
 garybuckle is just like you. He runs the odd marathon, plays a bit of squash, does 20 press ups everyday, eats too much chocolate and dreams of being a'proper' athlete.
 
