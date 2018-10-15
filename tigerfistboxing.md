@@ -1,5 +1,4 @@
 ---
 layout: page
-Title: tigerfistboxingtraining
-
+Title: MyBoxingSessions
 ---
