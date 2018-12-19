@@ -7,9 +7,9 @@ garybuckle is just like you. He runs the odd marathon, plays a bit of squash, do
 
 He wants to play 'proper' squash and one day he will run an ultra marathon.
 
-He recently became a qualified Boxing coach thanks to the [Hatton Boxing Academy].
+He recently became a qualified Boxing coach thanks to the [Hatton Boxing Academy](http://teamhatton.co.uk).
 
-Anyone relatively local to Leighton Buzzard, looking for a great cardio workout - then [contact me]
+Anyone relatively local to Leighton Buzzard, looking for a great cardio workout - then [contact me](mailto:iambuckle@icloud.com)
 
 This website is just to log the stuff around all of that.
 
