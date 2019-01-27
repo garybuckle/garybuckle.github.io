@@ -1,7 +1,9 @@
 ---
-layout: post
-title:  "Recovering from Injuries"
-date:   2018-05-11 10:31:50 +0100   
+layout: posts
+title: Recovering from Injuries
+date: '2018-05-11 10:31:50 +0100'
+categories: injuries
+published: true
 ---
 
 # Recovering from an injury.
@@ -10,3 +12,6 @@ date:   2018-05-11 10:31:50 +0100
 * Muscular
 * Skeletal
 
+Still working on this post.
+Please be patient.
+In the meantime avoid becoming one!

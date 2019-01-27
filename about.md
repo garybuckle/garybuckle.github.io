@@ -3,10 +3,9 @@ layout: page
 title: About
 permalink: /about/
 ---
-
 This is a simple site, no databases, no logins. 
 * All data is stored in a flat file.
-* There will be no 'heavy' content'
+* There will be no ‘heavy’ content’
 * It wont contain lots of eye candy either.
 
 # This is the start 
@@ -21,9 +20,9 @@ Why?
 * People like me talk a lot of shit. This is the bucket to hold it.
 * I’m genuinely interested in health and fitness and have discovered some useful stuff I’d like to share.
 
-* I’ll collect the data in flat files. What does that mean? - no databases and no datais is held anywhere that FaceBook, Google, Amazon, or any of the large organisations that run the internet would be interested in
+* I’ll collect the data in flat files. What does that mean? - no databases and no data held anywhere that FaceBook, Google, Amazon, or any of the large organisations that run the internet would be interested in
 
-. It’s github, place of code. I’m not particularly anti any of these organisations, despite the media uproar. They have their place. I just didn’t want logins et al.
+It’s github, place of code. I’m not particularly anti any of these organisations, despite the media uproar. They have their place. I just didn’t want logins et al.
 
 * Having been active for a number of years i was abruptly stopped in my tracks by two detached retinas and my reaction and subsequent attempts to dig myself out have been learning curves.
 
@@ -32,5 +31,5 @@ Why?
 
 That’s it really!
 
-It's that simple!
+It’s that simple!
 
