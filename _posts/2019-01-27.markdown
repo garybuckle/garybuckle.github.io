@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta charset="utf-8" />
+		<link rel="stylesheet" type="text/css" href="css/style.css" />
+		<title>Session with Sky</title>
+	</head>
+<body>
+<p>Session with Sky </p>
+
+<h1>Forehand</h1>
+
+<p>Reduce the amount of variables that creep in. Under pressure this will be hard so eliminating them on practice is crucial.</p>
+
+<ul>
+	<li>you have 3 seconds to hit the ball.</li>
+	<li>smaller steps.</li>
+	<li>Torso faces side wall.</li>
+	<li>Racket high</li>
+	<li>Spacing and distance must be good DONT GET TOO CLOSE!!!</li>
+	<li>Breathe out on shot.</li>
+	<li>RELAX!!!</li>
+</ul>
+
+<h1>Backhand</h1>
+
+<ul>
+	<li>spacing and distance.</li>
+	<li>Bigger swing</li>
+</ul>
+
+<p>-Hit parallel through the ball.</p>
+
+<h1>Routines</h1>
+
+<ul>
+	<li> alley games with length but points scored from touching T. Both sides.</li>
+	<li>Swing practice with a kilo weight in hand along a straight line. Swing straight but follow the line through.</li>
+</ul>
+
+<blockquote>
+<p>either you are hunting or hunted </p>
+</blockquote>
+
+</body>
+</html>
+
