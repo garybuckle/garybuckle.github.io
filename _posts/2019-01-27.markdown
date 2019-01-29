@@ -1,4 +1,10 @@
 ---
+<<<<<<< master
+=======
+published: false
+---
+---
+>>>>>>> origin/master
 layout: post
 title:  Sky Squash Session
 date:   2019-01-29 11:50:50 +0000
@@ -36,4 +42,8 @@ Reduce the amount of variables that creep in. Under pressure this will be hard s
 30 Aussie boasts pick up both sides 
 
 >either you are hunting or hunted 
+<<<<<<< master
 >just keep watching your opponents enjoy if you're being thrashed it's the easiest practice you can do.
+=======
+>just keep watching your opponents, enjoy it even if you're being thrashed it's the easiest practice you can do.
+>>>>>>> origin/master
