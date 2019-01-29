@@ -39,4 +39,4 @@ Reduce the amount of variables that creep in. Under pressure this will be hard s
 
 >just keep watching your opponents it does not matter if you're being thrashed it's the easiest practice you can do.
 
-its free!
+>its free!
