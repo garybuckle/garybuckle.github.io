@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  Sky Squash Session
-date:   2019-01-29 11:50:50 +0000
+title: Sky Squash Session
+date: '2019-01-29 11:50:50 +0000'
 published: true
 ---
 
@@ -36,5 +36,7 @@ Reduce the amount of variables that creep in. Under pressure this will be hard s
 30 Aussie boasts pick up both sides 
 
 >either you are hunting or hunted 
->just keep watching your opponents enjoy if you're being thrashed it's the easiest practice you can do.
->just keep watching your opponents, enjoy it even if you're being thrashed it's the easiest practice you can do.
+
+>just keep watching your opponents it does not matter if you're being thrashed it's the easiest practice you can do.
+
+its free!
