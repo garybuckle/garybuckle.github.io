@@ -1,6 +1,11 @@
 ---
-published: false
+layout: posts
+title: StravistiX Chrome plugin
+date: '2018-06-11 10:31:50'
+published: true
+summary: A plugin that offers some very in-depth analysis.
 ---
+
 
 ## StravistiX Chrome plugin.
 

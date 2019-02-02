@@ -5,6 +5,9 @@ date: '2019-01-29 11:50:50 +0000'
 published: true
 ---
 
+Squash session with Sky Loo - incredible insights from a great player and coach!
+
+
 # general
 
 - head up.

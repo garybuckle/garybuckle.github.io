@@ -4,6 +4,10 @@ layout: post
 date: '2018-09-12 07:00:50 +0000'
 categories: training
 ---
+
+Phase 1 of the "learn to box" routines I am currently offering. 
+
+
 # Basic Boxing for Fitness.
 
 ## Phase 1 training session.

@@ -2,8 +2,10 @@
 published: true
 layout: post
 date: '2018-06-28 07:00:50 +0000'
-categories: training
+summary: How useful are online training sites?
 ---
+
+
 # Things I have learned from injury.
 
 Active people do not react well to doing nothing.

@@ -1,9 +1,13 @@
 ---
+layout: posts
+title: Sunday Morning Boxing Session
+date: '2018-08-04 07:00:50'
 published: true
-layout: post
-date: '2018-08-04 07:00:50 +0000'
-categories: training
+summary: Nirvana!! on a Sunday morning
 ---
+
+
+
 ## Heart rate data
 ​
 ![HR Data]({{garybuckle.github.io}}/assets/polar/Sunday Boxing session.png)

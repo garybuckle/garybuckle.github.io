@@ -2,8 +2,9 @@
 layout: post
 title: Online Training Websites
 date: '2018-06-28 17:00:50 +0000'
-categories: training
 published: true
+summary: How useful are online training sites?
+
 ---
 
 # Using Online logging tools to guide your training

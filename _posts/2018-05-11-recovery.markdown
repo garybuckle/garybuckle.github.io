@@ -1,8 +1,8 @@
 ---
 layout: posts
 title: Recovering from Injuries
-date: '2018-05-11 10:31:50 +0100'
-categories: injuries
+date: '2018-05-11 10:31:50'
+summary: How to handle injuries
 published: true
 ---
 

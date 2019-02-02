@@ -2,7 +2,7 @@
 layout: post
 title: Detached Retina!
 date: '2018-06-22 10:00:50 +0000'
-categories: injuries
+summary: A detached retina will sideline an athlete for a while and there is so little advice on how to recover properly
 published: true
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: Fixing Polar V800 Pairing issue
 date:   2018-05-16 11:31:50 +0100
-categories: Equipment
+summary: Old post for pairing a polar v800 watch
 ---
 ## New Polar refuses to pair with Polar  Flow on iOS device
 * error message is 'pairing failed'
