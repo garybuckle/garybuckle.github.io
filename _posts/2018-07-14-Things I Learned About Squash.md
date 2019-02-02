@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 title: Things I learned about Squash
 date: '2018-05-11 10:31:50'
 published: true

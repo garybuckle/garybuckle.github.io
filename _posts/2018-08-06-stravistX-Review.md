@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 title: StravistiX Chrome plugin
 date: '2018-06-11 10:31:50'
 published: true

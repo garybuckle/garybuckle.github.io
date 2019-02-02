@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 title: Sunday Morning Boxing Session
 date: '2018-08-04 07:00:50'
 published: true

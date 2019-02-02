@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 title: Recovering from Injuries
 date: '2018-05-11 10:31:50'
 summary: How to handle injuries
